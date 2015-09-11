@@ -115,10 +115,6 @@ bool Game::playOneLevel()
 		//i1.printPiece(m_screen, 3, 1);
 	}
 
-	
-
-
-
 
 	
 
